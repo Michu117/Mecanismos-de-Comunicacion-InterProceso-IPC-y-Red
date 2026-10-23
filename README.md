@@ -206,7 +206,7 @@ El puerto TCP debe estar permitido por el firewall.
 ## Archivos que se suben al repositorio
 
 Se suben el código fuente, Dockerfiles, Compose, `requirements.txt`,
-`.env.example`, `.dockerignore`, `.gitignore`, `guia.md` y este README.
+`.env.example`, `.dockerignore`, `.gitignore` y este README.
 
 No se suben:
 
